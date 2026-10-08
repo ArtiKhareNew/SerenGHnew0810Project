@@ -44,6 +44,24 @@ services:
   packages:
   - name: WmPublic
     version: 12.1.0.0.1032
+- serviceName: project.serenghnew0810.integrations:githubfs
+  packages:
+  - name: SerenGHnew0810Project
+    version: "1.0"
+  - name: DivisionPackage
+    version: "4.0"
+  - name: AddPublicService
+    version: "6.0"
+  - name: MultiplyPublicService
+    version: "6.0"
+- serviceName: DivisionPackage:division_service
+  packages:
+  - name: DivisionPackage
+    version: "4.0"
+- serviceName: pub.math:divideInts
+  packages:
+  - name: WmPublic
+    version: 12.1.0.0.1032
 - serviceName: project.serenghnew0810.integrations:gitlabfs
   packages:
   - name: SerenGHnew0810Project
