@@ -22,7 +22,7 @@ packages:
   gitServerName: srcGithubCtrl_Arti
   gitUrl: https://github.com/ArtiKhareNew
   gitUsername: ArtiKhareNew
-  gitBranch: main
+  gitBranch: lowerversion
 services:
 - serviceName: project.serenghnew0810.integrations:bitbucketfs
   packages:
