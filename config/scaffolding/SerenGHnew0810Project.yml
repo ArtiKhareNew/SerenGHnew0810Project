@@ -19,7 +19,7 @@ packages:
   gitUsername: ArtiKhareGitlab
   gitBranch: master
 - name: DivisionPackage
-  gitServerName: src_GithubCtrl_shared_Arti
+  gitServerName: srcGithubCtrl_Arti
   gitUrl: https://github.com/ArtiKhareNew
   gitUsername: ArtiKhareNew
   gitBranch: main
