@@ -18,6 +18,11 @@ packages:
   gitUrl: https://gitlab.com/ArtiKhareGitlab
   gitUsername: ArtiKhareGitlab
   gitBranch: master
+- name: DivisionPackage
+  gitServerName: src_GithubCtrl_shared_Arti
+  gitUrl: https://github.com/ArtiKhareNew
+  gitUsername: ArtiKhareNew
+  gitBranch: main
 services:
 - serviceName: project.serenghnew0810.integrations:bitbucketfs
   packages:
